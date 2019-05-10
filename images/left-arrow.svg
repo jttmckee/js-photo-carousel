@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Copyright Jason McKee 2019 All rights reserved -->
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+   width= "40px" height="120px">
+  <style>
+    path.liner {
+      stroke:#777;
+      stroke-width: 2;
+      fill:#777;
+    }
+  </style>
+  <path class="liner"  id="line1"
+      d= "M30 5 L3 50 S-1 55, 3 70 L30 115 Z "
+      />
+
+</svg>
